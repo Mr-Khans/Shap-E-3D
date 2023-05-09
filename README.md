@@ -8,7 +8,7 @@ To use Shap-E, you will need to have Python 3.x and the following packages insta
 Torch
 NumPy
 Matplotlib
-PIL (Python Imaging Library)
+PIL
 
 # Acknowledgments
 Shap-E was inspired by several existing generative models for 3D assets, including:
