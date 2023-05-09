@@ -5,7 +5,7 @@ Shap-E is a conditional generative model for 3D assets. It is designed to genera
 # Installation
 To use Shap-E, you will need to have Python 3.x and the following packages installed:
 
-TensorFlow
+Torch
 NumPy
 Matplotlib
 PIL (Python Imaging Library)
